@@ -214,10 +214,3 @@ This project is intended for educational, research, and portfolio purposes.
 
 ---
 
-## Author
-
-**Tehreem Ali**  
-AI/ML Engineer | Data Science Enthusiast
-
-GitHub: https://github.com/tehrimaly
-LinkedIn: https://linkedin.com/in/tehrimaly
