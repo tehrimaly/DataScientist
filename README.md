@@ -72,7 +72,6 @@ cd weathersphere/data-science
 ```bash
 pip install -r requirements.txt
 ```
-
 ---
 
 ## Dataset
